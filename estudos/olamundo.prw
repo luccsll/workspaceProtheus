@@ -8,7 +8,7 @@ User Function aula01()
     If lVld
         MsgInfo("Hoje é dia 28" + lMes)
     Else
-        MsgInfo("Hoje NÃO é dia 28")
+        MsgInfo("Hoje NÃO é dia 28 aaaaa")
     EndIf
 
 Return
